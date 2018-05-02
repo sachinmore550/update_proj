@@ -1,0 +1,4 @@
+{
+  "SM_testfile1.py::LoginToQSBW::test_LoginTest": true, 
+  "SM_testfile1.py::LoginToQSBW::test_SampleFail": true
+}

@@ -1,0 +1,15 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1524734714024" stop="1524734747357">
+  <name>SM_TestSuites.SM_testfile1</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1524734714024" status="passed" stop="1524734735173">
+      <description>
+        Tests Login functionality of the QA Environment for Investis
+        </description>
+      <name>SM_TestSuites.SM_testfile1.LoginToQSBW.test_LoginTest</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
